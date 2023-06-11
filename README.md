@@ -7,7 +7,7 @@ My name is Barry Yan, screen name is Hai Feng Geek. I am currently a research an
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Beijing China.
-- 🌱 I’m currently learning Golang,ElasticSearch,gRPC and etcd.
+- 🌱 I’m currently learning ElasticSearch, gRPC and etcd.
 - ⚡ Fun fact: listening to music, playing code, badminton, running
 
 Technical column:
