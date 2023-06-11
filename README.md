@@ -16,5 +16,5 @@ Technical column:
 
 WeChat Official Account:
 
-<img src="https://ibarryyan.oss-cn-hangzhou.aliyuncs.com/1.jpg" alt="img.png" style="zoom:40%;" />
+<img src="https://ibarryyan.oss-cn-hangzhou.aliyuncs.com/1.jpg" alt="img.png" style="zoom:30%;" />
 
