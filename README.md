@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Beijing China.
 - 🌱 I’m currently learning ElasticSearch, gRPC and etcd.
-- ⚡ Fun fact: listening to music, playing code, badminton, running
+- ⚡ Fun fact: listening to music, playing code, badminton, running.
 
 Technical column:
 
