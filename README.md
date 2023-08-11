@@ -17,4 +17,4 @@ WeChat Official Account:
 <img src="https://ibarryyan.oss-cn-hangzhou.aliyuncs.com/1.jpg" alt="img.png" style="zoom:30%;" />
 
 
-![](https://raw.githubusercontent.com/ibarryyan/ibarryyan/main/assets/github-contribution-grid-snake.svg)              
+![](https://raw.githubusercontent.com/ibarryyan/ibarryyan/master/assets/github-contribution-grid-snake.svg)              
