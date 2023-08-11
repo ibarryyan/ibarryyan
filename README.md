@@ -2,6 +2,8 @@
 
 My name is Barry Yan, screen name is Hai Feng Geek. I am currently a research and development engineer of an Internet company, as well as a fanatical fan and technical blogger in the field of back-end technology. I have my own blogs on GitHub, CSDN, 51CTO blog, Ali Cloud Technology community, Nuggets technology community and InfoQ writing community, with more than 200 original articles.
 
+![](https://raw.githubusercontent.com/ibarryyan/ibarryyan/master/assets/github-contribution-grid-snake.svg)              
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Beijing China.
@@ -17,4 +19,3 @@ WeChat Official Account:
 <img src="https://ibarryyan.oss-cn-hangzhou.aliyuncs.com/1.jpg" alt="img.png" style="zoom:30%;" />
 
 
-![](https://raw.githubusercontent.com/ibarryyan/ibarryyan/master/assets/github-contribution-grid-snake.svg)              
