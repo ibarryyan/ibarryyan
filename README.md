@@ -1,12 +1,12 @@
-### I like coding⚡
+### I Like Coding⚡
 
-My name is Barry Yan, screen name is Hai Feng Geek. 
+My name is Barry Yan or Hai Feng Geek. 
 
-- E-mail：1712229564@qq.com
+- Mail：1712229564@qq.com
 - Blog：[ibarryyan.blog.csdn.net](https://ibarryyan.blog.csdn.net)
-- WeChat Account：[扯编程的淡](https://img-blog.csdnimg.cn/b7617684e5484a31a4d934e61fd27776.png)
+- WeChat：[扯编程的淡](https://img-blog.csdnimg.cn/b7617684e5484a31a4d934e61fd27776.png)
 
-#### Programming techniques
+#### Programming Techniques
 
 <code><img height="20" src="./img/linux.jpg" title="Linux"/></code>
 <code><img height="20" src="./img/java.jpg" title="Java"/></code>
@@ -20,7 +20,7 @@ My name is Barry Yan, screen name is Hai Feng Geek.
 <code><img height="20" src="./img/clickhouse.jpg" title="Clickhouse" /></code>
 <code>etc.</code>
 
-#### Open source repository
+#### Open Source Repository
 
 - :oncoming_taxi: [Front-Back design](https://github.com/ibarryyan/front-back-design)
 - :oncoming_bus: [Go Server Demo](https://github.com/ibarryyan/go-server)
@@ -29,3 +29,5 @@ My name is Barry Yan, screen name is Hai Feng Geek.
 - :taxi: [gRPC Learn Demo](https://github.com/ibarryyan/grpc-learn-demo)
 - :monorail: [Go Tips](https://github.com/ibarryyan/golang-tips-100)
 - :railway_car: [QR-code](https://github.com/ibarryyan/QR-code)
+
+Welcome to click on star !
