@@ -3,9 +3,7 @@
 My name is Barry Yan, screen name is Hai Feng Geek. 
 
 - E-mail：1712229564@qq.com
-
-- Blog：https://ibarryyan.blog.csdn.net/
-
+- Blog：ibarryyan.blog.csdn.net
 - WeChat official account：[扯编程的淡](https://img-blog.csdnimg.cn/b7617684e5484a31a4d934e61fd27776.png)
 
 #### Programming techniques
