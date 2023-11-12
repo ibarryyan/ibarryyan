@@ -23,12 +23,12 @@ My name is Barry Yan or Hai Feng Geek.
 
 #### Open Source Repository
 
-- :oncoming_taxi: [Front-Back design](https://github.com/ibarryyan/front-back-design)
-- :oncoming_bus: [Go Server Demo](https://github.com/ibarryyan/go-server)
-- :oncoming_police_car: [Beego-requestid](https://github.com/ibarryyan/beego-requestid)
-- :bus: [Go Design Patterns](https://github.com/ibarryyan/go-design-patterns)
-- :taxi: [gRPC Learn Demo](https://github.com/ibarryyan/grpc-learn-demo)
-- :monorail: [Go Tips 100](https://github.com/ibarryyan/golang-tips-100)
-- :railway_car: [QR-code](https://github.com/ibarryyan/QR-code)
+- :oncoming_taxi: [Front-Back design](https://github.com/ibarryyan/front-back-design)：Go、Java and Vue.
+- :oncoming_bus: [Go Server Demo](https://github.com/ibarryyan/go-server)：Go learn demo.
+- :oncoming_police_car: [Beego-requestid](https://github.com/ibarryyan/beego-requestid)：RequestId middleware for beego.
+- :bus: [Go Design Patterns](https://github.com/ibarryyan/go-design-patterns)：You know , for golang design patterns.
+- :taxi: [gRPC Learn Demo](https://github.com/ibarryyan/grpc-learn-demo)：gRPC learn demo.
+- :monorail: [Go Tips 100](https://github.com/ibarryyan/golang-tips-100)：You know , for golang tips
+- :railway_car: [QR-code](https://github.com/ibarryyan/QR-code)：QR code generator by spring-boot.
 
 Welcome to click on star !
