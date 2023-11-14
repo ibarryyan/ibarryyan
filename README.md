@@ -30,5 +30,6 @@ My name is Barry Yan or Hai Feng Geek.
 - :taxi: [gRPC Learn Demo](https://github.com/ibarryyan/grpc-learn-demo)：gRPC learn demo.
 - :monorail: [Go Tips 100](https://github.com/ibarryyan/golang-tips-100)：You know , for golang tips
 - :railway_car: [QR-code](https://github.com/ibarryyan/QR-code)：QR code generator by spring-boot.
+- :oncoming_police_car: [Go SDK Demo](https://github.com/ibarryyan/go-http-sdk-example):SDK for Go HTTP API.
 
 Welcome to click on star !
