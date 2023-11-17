@@ -5,7 +5,7 @@ My name is Barry Yan or Hai Feng Geek.
 - Mail：1712229564@qq.com
 - Page：[Github Page](https://github.com/ibarryyan/ibarryyan.github.io)
 - Blog：[ibarryyan.blog.csdn.net](https://ibarryyan.blog.csdn.net)
-- WeChat：[扯编程的淡](https://img-blog.csdnimg.cn/b7617684e5484a31a4d934e61fd27776.png)
+- WeChat：<code><img height="20" src="./img/wx.png" title="Linux"/></code>
 
 #### Programming Techniques
 
