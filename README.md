@@ -3,8 +3,6 @@
 My name is Barry Yan or Hai Feng Geek. 
 
 - Mail：1712229564@qq.com
-- Page：[Github Page](https://github.com/ibarryyan/ibarryyan.github.io)
-- Blog：[ibarryyan.blog.csdn.net](https://ibarryyan.blog.csdn.net)
 - WeChat：<code><img height="120" src="./img/wx.png" title="Linux"/></code>
 
 #### Programming Techniques
