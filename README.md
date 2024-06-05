@@ -1,6 +1,6 @@
 ### I Like Coding⚡
 
-My name is Barry Yan or Hai Feng Geek. 
+My name is Barry Yan or 盐咔咔. 
 
 - Mail：1712229564@qq.com
 - WeChat：<code><img height="120" src="./img/wx.png" title="Linux"/></code>
