@@ -1,11 +1,16 @@
-### I Like Coding⚡
+**奔跑起来像是一道春天的闪电**⚡
 
-My name is Barry Yan or 盐咔咔. 
+**My name is Barry Yan or 盐咔咔.** 
 
-- Mail：1712229564@qq.com
-- WeChat：<code><img height="120" src="./img/wx.png" title="Linux"/></code>
+#### My Site :
 
-#### Programming Techniques
+`腾讯云社区`：https://cloud.tencent.com/developer/user/7215614
+
+`CSDN`：https://juejin.cn/user/990022531286247
+
+`掘金`：https://ibarryyan.blog.csdn.net
+
+#### Programming Techniques :
 
 <code><img height="20" src="./img/linux.jpg" title="Linux"/></code>
 <code><img height="20" src="./img/java.jpg" title="Java"/></code>
@@ -18,3 +23,9 @@ My name is Barry Yan or 盐咔咔.
 <code><img height="20" src="./img/redis.jpg" title="Redis" /></code>
 <code><img height="20" src="./img/clickhouse.jpg" title="Clickhouse" /></code>
 <code>etc.</code>
+
+#### Call Me :
+
+E-mail：1712229564@qq.com
+
+WeChat：<code><img height="120" src="./img/wx.png" title="Linux"/></code>
