@@ -1,7 +1,5 @@
 **奔跑起来像是一道春天的闪电**⚡
 
-**My name is Barry Yan or 盐咔咔.** 
-
 #### My Site :
 
 `腾讯云社区`：https://cloud.tencent.com/developer/user/7215614
@@ -24,7 +22,7 @@
 <code><img height="20" src="./img/clickhouse.jpg" title="Clickhouse" /></code>
 <code>etc.</code>
 
-#### Call Me :
+#### Call :
 
 E-mail：1712229564@qq.com
 
