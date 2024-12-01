@@ -4,9 +4,7 @@
 
 `腾讯云社区`：https://cloud.tencent.com/developer/user/7215614
 
-`CSDN`：https://juejin.cn/user/990022531286247
-
-`掘金`：https://ibarryyan.blog.csdn.net
+`CSDN`：https://ibarryyan.blog.csdn.net
 
 #### Programming Techniques :
 
