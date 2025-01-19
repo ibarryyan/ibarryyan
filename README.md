@@ -1,10 +1,6 @@
 **奔跑起来像是一道春天的闪电**⚡
 
-#### My Site :
-
-`腾讯云社区`：https://cloud.tencent.com/developer/user/7215614
-
-`CSDN`：https://ibarryyan.blog.csdn.net
+#### Homepage : biofy.cn/yanmingxin
 
 #### Programming Techniques :
 
@@ -20,8 +16,8 @@
 <code><img height="20" src="./img/clickhouse.jpg" title="Clickhouse" /></code>
 <code>etc.</code>
 
-#### Call :
+#### Contact Us : yanmingxin.boy@gmail.com
 
-E-mail：1712229564@qq.com
+#### WeChat：
 
-WeChat：<code><img height="120" src="./img/wx.png" title="Linux"/></code>
+<code><img height="120" src="./img/wx.png" title="Linux"/></code>
