@@ -15,9 +15,3 @@
 <code><img height="20" src="./img/redis.jpg" title="Redis" /></code>
 <code><img height="20" src="./img/clickhouse.jpg" title="Clickhouse" /></code>
 <code>etc.</code>
-
-#### Contact Us : yanmingxin.boy@gmail.com
-
-#### WeChat：
-
-<code><img height="120" src="./img/wx.png" title="Linux"/></code>
