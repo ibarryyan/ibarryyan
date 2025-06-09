@@ -28,12 +28,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibarryyan&layout=compact&theme=radical"/>
 </div>
 
-<!-- 动态图 -->
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibarryyan&theme=radical" alt="Streak Stats"/>
-</div>
-
 <!-- 项目展示 -->
 
 ### 🚀 Featured Projects
