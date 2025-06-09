@@ -27,16 +27,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibarryyan&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibarryyan&layout=compact&theme=radical"/>
 </div>
-
-<!-- 项目展示 -->
-
-### 🚀 Featured Projects
-
-
-| Project                                                | Description                            | Tech Stack                 |
-| ------------------------------------------------------ | -------------------------------------- | -------------------------- |
-| **[Golang Tips 100](https://github.com/ibarryyan/golang-tips-100)** | You know , for golang tips! | Go    |
-| **[QR-code-go](https://github.com/ibarryyan/QR-code-go)**   | You know , for Puzzle QR Code Game! |  Go |
-| **[FTransferor](https://github.com/ibarryyan/FTransferor)**    | You know , for file transferor!         |  Go                 |
-
----
