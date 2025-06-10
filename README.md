@@ -1,7 +1,7 @@
 <!-- 标题和简介 -->
 
-<h1 align="center">Hi 👋, I'm 闫同学</h1>
-<h3 align="center">A Gopher from China</h3>
+<h1 align="center">Hi 👋, I'm 闫同学 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h3 align="center">A Gopher from Beijing,China. </h3>
 
 <!-- 社交徽章 -->
 
