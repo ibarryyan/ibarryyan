@@ -7,16 +7,16 @@
 
 <p align="center">
   <a href="https://ibarryyan.blog.csdn.net/">
-    <img alt="CSDN" src="https://img.shields.io/badge/CSDN-0077B5?logoColor=white&style=for-the-badge">
+    <img alt="CSDN" src="https://img.shields.io/badge/CSDN-F05D5D?logoColor=white&style=for-the-badge">
   </a>
   <a href="https://juejin.cn/user/990022531286247">
-    <img alt="掘金" src="https://img.shields.io/badge/稀土掘金-12100E?logoColor=white&style=for-the-badge">
+    <img alt="掘金" src="https://img.shields.io/badge/稀土掘金-6EB6FF?logoColor=white&style=for-the-badge">
   </a>
   <a href="https://cloud.tencent.com/developer/user/7215614">
-    <img alt="腾讯云社区" src="https://img.shields.io/badge/腾讯云社区-1DA1F2?logoColor=white&style=for-the-badge">
+    <img alt="腾讯云社区" src="https://img.shields.io/badge/腾讯云社区-FFC76E?logoColor=white&style=for-the-badge">
   </a>
   <a href="https://github.com/ibarryyan/golang-tips-100/blob/master/img/wechat.jpg">
-    <img alt="公众号" src="https://img.shields.io/badge/WeChat-0077B5?logoColor=white&style=for-the-badge">
+    <img alt="公众号" src="https://img.shields.io/badge/公众号-74FF5A?logoColor=white&style=for-the-badge">
   </a>
 </p>
 
