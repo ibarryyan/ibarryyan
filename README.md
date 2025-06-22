@@ -1,7 +1,14 @@
 <!-- 标题和简介 -->
 
-<h1 align="center">Hi 👋, I'm 闫同学 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> A Gopher from Beijing,China. </h3>
+<!--<h1 align="center">Hi 👋, I'm 闫同学 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1> -->
+<!--<h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> A Gopher from Beijing,China. </h3>-->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7A4A4&size=30&center=true&vCenter=true&width=600&height=50&lines=Hello+There!%F0%9F%91%8B;I'm+闫同学;Welcome+to+My+GitHub+Space!" alt="Headline" />
+</div>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A370F7&center=true&vCenter=true&width=435&lines=A+Gopher+from+China." alt="Typing SVG" /></a>
+</div>
 
 <!-- 社交徽章 -->
 
