@@ -30,11 +30,11 @@
 <!-- GitHub统计卡片 -->
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibarryyan&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibarryyan&layout=compact&theme=radical&hide=javascript,html,css"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ibarryyan&show_icons=true&theme=radical&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibarryyan&layout=compact&theme=radical&hide=javascript,html,css"/>
 </div>
 
-<h3 align="center">🚀 Featured Technologies</h3>
+<h3 align="center">🚀 Technologies</h3>
 <div align="center">
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
@@ -47,3 +47,9 @@
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg"></code>
 </div>
+<p></p>
+<div align="center">
+    <img height="240em" src="https://github-readme-activity-graph.vercel.app/graph?username=ibarryyan&hide_border=true&theme=rogue"/>
+</div>
+
+
