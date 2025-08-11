@@ -6,12 +6,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7A4A4&size=30&center=true&vCenter=true&width=600&height=50&lines=Hello+There!%F0%9F%91%8B;I'm+闫同学;Welcome+to+My+GitHub+Space!" alt="Headline" />
 </div>
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A370F7&center=true&vCenter=true&width=435&lines=A+Gopher+from+China." alt="Typing SVG" /></a>
-</div>
 
 <!-- 社交徽章 -->
-
 <p align="center">
   <a href="https://ibarryyan.blog.csdn.net/">
     <img alt="CSDN" src="https://img.shields.io/badge/CSDN-F05D5D?logoColor=white&style=for-the-badge">
@@ -25,7 +21,17 @@
   <a href="https://github.com/ibarryyan/golang-tips-100/blob/master/img/wechat.jpg">
     <img alt="公众号" src="https://img.shields.io/badge/公众号-74FF5A?logoColor=white&style=for-the-badge">
   </a>
+   
 </p>
+
+<!-- 二维码 -->
+<div align="center">
+   <img src="https://github.com/ibarryyan/golang-tips-100/raw/master/img/wechat.jpg" width="160"  alt="" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A370F7&center=true&vCenter=true&width=435&lines=A+Gopher+from+China." alt="Typing SVG" /></a>
+</div>
 
 <!-- GitHub统计卡片 -->
 
