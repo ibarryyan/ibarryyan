@@ -26,7 +26,7 @@
 
 <!-- 二维码 -->
 <div align="center">
-   <img src="https://github.com/ibarryyan/golang-tips-100/raw/master/img/wechat.jpg" width="160"  alt="" />
+   <img src="./微信图片_2025-08-11_222730_296.png" width="200"  alt="" />
 </div>
 
 <div align="center">
