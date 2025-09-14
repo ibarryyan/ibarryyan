@@ -43,7 +43,7 @@
 
 <h3 align="center">👋 Homepage</h3>
 
-<a href="https://yantongxue.cn">yantongxue.cn</a>
+<a align="center" href="https://yantongxue.cn">yantongxue.cn</a>
 
 <h3 align="center">🚀 Technologies</h3>
 <div align="center">
