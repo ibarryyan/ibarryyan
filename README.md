@@ -41,6 +41,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibarryyan&layout=compact&theme=radical&hide=javascript,html,css"/>
 </div>
 
+<h3 align="center">👋 Homepage</h3>
+
+<a href="https://yantongxue.cn">yantongxue.cn</a>
+
 <h3 align="center">🚀 Technologies</h3>
 <div align="center">
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
