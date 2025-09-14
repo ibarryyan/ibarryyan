@@ -34,16 +34,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A370F7&center=true&vCenter=true&width=435&lines=A+Gopher+from+China." alt="Typing SVG" /></a>
 </div>
 
-<!-- GitHub统计卡片 -->
+<h3 align="center">👋 Homepage:<a align="center" href="https://yantongxue.cn">yantongxue.cn</a></h3>
 
+<!-- GitHub统计卡片 -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibarryyan&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibarryyan&layout=compact&theme=radical&hide=javascript,html,css"/>
 </div>
-
-<h3 align="center">👋 Homepage</h3>
-
-<a align="center" href="https://yantongxue.cn">yantongxue.cn</a>
 
 <h3 align="center">🚀 Technologies</h3>
 <div align="center">
@@ -58,6 +55,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg"></code>
 </div>
+
 
 <!--
 <p></p>
