@@ -28,6 +28,7 @@
 <div align="center">
    <img src="./微信图片_2025-08-11_222730_296.png" width="200"  alt="" />
 </div>
+ -->
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A370F7&center=true&vCenter=true&width=435&lines=A+Gopher+from+China." alt="Typing SVG" /></a>
