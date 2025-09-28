@@ -34,7 +34,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A370F7&center=true&vCenter=true&width=435&lines=A+Gopher+from+China." alt="Typing SVG" /></a>
 </div>
 
-<h3 align="center">👋 Homepage:<a align="center" href="https://yantongxue.cn">yantongxue.cn</a></h3>
+<!-- <h3 align="center">👋 Homepage:<a align="center" href="https://yantongxue.cn">yantongxue.cn</a></h3> -->
 
 <!-- GitHub统计卡片 -->
 <div align="center">
