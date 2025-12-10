@@ -36,11 +36,15 @@
 
 <!-- <h3 align="center">👋 Homepage:<a align="center" href="https://yantongxue.cn">yantongxue.cn</a></h3> -->
 
-<!-- GitHub统计卡片 -->
+<!-- GitHub统计卡片 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibarryyan&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibarryyan&layout=compact&theme=radical&hide=javascript,html,css"/>
 </div>
+-->
+
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/4a2b799e-0c9c-4551-800f-ccc6a0d3b4ae" />
+
 
 <h3 align="center">🚀 Technologies</h3>
 <div align="center">
