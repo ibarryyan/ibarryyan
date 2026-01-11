@@ -43,8 +43,9 @@
 </div>
 -->
 
+<!-- 
 <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/4a2b799e-0c9c-4551-800f-ccc6a0d3b4ae" />
-
+-->
 
 <h3 align="center">🚀 Technologies</h3>
 <div align="center">
