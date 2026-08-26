@@ -6,17 +6,11 @@ I'm a backend engineer who enjoys building things and exploring how they work un
 
 Recently, I'm exploring **LLMs, AI Agents, Skills and Agent Runtime**.
 
-> From Backend Engineering to AI Agent Infrastructure.
-
----
-
 ## 🚀 Currently Exploring
 
 Building small projects to understand AI Agents from the ground up.
 
 `LLM → Tools → Agent → Runtime → Skills → MCP`
-
----
 
 ## ✍️ Writing
 
@@ -26,14 +20,10 @@ I write about **AI, Agent Engineering, Go and Backend Development**.
 * [掘金](#)
 * [微信公众号](#)
 
----
-
 ## 🌱 About Me
 
 Keep building.
 Keep learning.
 Keep sharing.
-
----
 
 ⭐️ Thanks for visiting my profile.
