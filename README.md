@@ -6,19 +6,12 @@ I'm a backend engineer who enjoys building things and exploring how they work un
 
 Recently, I'm exploring **LLMs, AI Agents, Skills and Agent Runtime**.
 
-## 🚀 Currently Exploring
-
-Building small projects to understand AI Agents from the ground up.
-
-`LLM → Tools → Agent → Runtime → Skills → MCP`
-
 ## ✍️ Writing
 
 I write about **AI, Agent Engineering, Go and Backend Development**.
 
-* [CSDN](#)
-* [掘金](#)
-* [微信公众号](#)
+* [Home](https://yantongxue.cn)
+* [WeChat](https://github.com/ibarryyan/ibarryyan/blob/master/wechat.png)
 
 ## 🌱 About Me
 
