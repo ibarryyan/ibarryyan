@@ -8,10 +8,7 @@ Recently, I'm exploring **LLMs, AI Agents, Skills and Agent Runtime**.
 
 ## ✍️ Writing
 
-I write about **AI, Agent Engineering, Go and Backend Development**.
-
-* [Home](https://yantongxue.cn)
-* [WeChat](https://github.com/ibarryyan/ibarryyan/blob/master/wechat.png)
+I write about **AI, Agent Engineering, Go and Backend Development**. 
 
 ## 🌱 About Me
 
